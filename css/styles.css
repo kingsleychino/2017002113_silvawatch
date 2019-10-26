@@ -198,11 +198,61 @@ h3 {
   text-transform: uppercase;
 }
 
-#main-content #content .article .article-content .article-share i {
+#main-content #content .article .article-content .article-share .share {
   background: #9c9c9c;
   color: #fff;
-  display: inline-block;
+  display: block;
   padding: 0.5rem;
+}
+
+#main-content #content .article .article-content .article-share i {
+  background: #fff;
+  border: #9c9c9c solid 0.1px;
+  color: #9c9c9c;
+  display: block;
+  margin: -1px 0;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+#main-content #content .article .article-content .article-share .fa-fab {
+  display: none;
+}
+
+#main-content
+  #content
+  .article
+  .article-content
+  .article-share
+  .fa-fab
+  .facebook:hover {
+  background: #3b5998;
+  border: none;
+  color: #fff;
+}
+
+#main-content
+  #content
+  .article
+  .article-content
+  .article-share
+  .fa-fab
+  .twitter:hover {
+  background: #00acee;
+  border: none;
+  color: #fff;
+}
+
+#main-content
+  #content
+  .article
+  .article-content
+  .article-share
+  .fa-fab
+  .pinterest:hover {
+  background: #c8232c;
+  border: none;
+  color: #fff;
 }
 
 #main-content #content .article .article-content .article-text .lead {
