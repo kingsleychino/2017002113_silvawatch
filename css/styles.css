@@ -209,7 +209,7 @@ h3 {
   color: #fff;
   cursor: pointer;
   display: block;
-  padding: 8px;
+  padding: 10px 5px;
   text-decoration: none;
 }
 
@@ -241,22 +241,22 @@ h3 {
   color: #cccbcb;
   display: block;
   margin: -1px 0;
-  padding: 8px;
+  padding: 10px 5px;
 }
 
 .dropdown .dropdown-content .facebook:hover {
   background: #3b5998;
-  /* border: none; */
+  border: #3b5998 solid 1px;
   color: #fff;
 }
 .dropdown .dropdown-content .twitter:hover {
   background: #00acee;
-  border: none;
+  border: #00acee solid 1px;
   color: #fff;
 }
 .dropdown .dropdown-content .pinterest:hover {
   background: #c8232c;
-  border: none;
+  border: #c8232c solid 1px;
   color: #fff;
 }
 
