@@ -1,4 +1,4 @@
-const shareArticle = document.querySelector('.article-share');
+const shareArticle = document.querySelectorAll('.article-share');
 const faIcon = document.querySelectorAll('.fa-fab');
 
 shareArticle.addEventListener('mouseover', () => {
