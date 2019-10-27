@@ -181,7 +181,7 @@ h3 {
 }
 
 #main-content #content .article .article-content {
-  border-top: #9c9c9c 0.05rem solid;
+  border-top: #cccbcb 0.05rem solid;
   display: flex;
   flex: 2;
   padding-left: 1rem;
@@ -198,58 +198,63 @@ h3 {
   text-transform: uppercase;
 }
 
-#main-content #content .article .article-content .article-share .share {
-  background: #9c9c9c;
-  color: #fff;
-  display: block;
-  padding: 0.5rem;
-}
-
-#main-content #content .article .article-content .article-share i {
-  background: #fff;
-  border: #9c9c9c solid 0.1px;
-  color: #9c9c9c;
-  display: block;
-  margin: -1px 0;
-  padding: 0.5rem;
+/* Article Shares Dropdown */
+.dropdown {
   text-align: center;
 }
 
-#main-content #content .article .article-content .article-share .fa-fab {
-  display: none;
+.dropdown i {
+  background: #cccbcb;
+  border: #cccbcb solid 1px;
+  color: #fff;
+  cursor: pointer;
+  display: block;
+  padding: 8px;
+  text-decoration: none;
 }
 
-#main-content
-  #content
-  .article
-  .article-content
-  .article-share
-  .fa-fab
-  .facebook:hover {
+.dropdown .dropdown-content {
+  visibility: hidden;
+  opacity: 0;
+  position: absolute;
+  transform: translateY(-2em);
+  z-index: -1;
+  transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s,
+    z-index 0s linear 0.01s;
+}
+
+.dropdown:hover .dropdown-content {
+  visibility: visible;
+  opacity: 1;
+  z-index: 1;
+  transform: translateY(0%);
+  transition-delay: 0s, 0s, 0.3s;
+}
+
+.dropdown .dropdown-content a {
+  text-decoration: none;
+}
+
+.dropdown .dropdown-content i {
+  background: #fff;
+  border: #cccbcb solid 1px;
+  color: #cccbcb;
+  display: block;
+  margin: -1px 0;
+  padding: 8px;
+}
+
+.dropdown .dropdown-content .facebook:hover {
   background: #3b5998;
-  border: none;
+  /* border: none; */
   color: #fff;
 }
-
-#main-content
-  #content
-  .article
-  .article-content
-  .article-share
-  .fa-fab
-  .twitter:hover {
+.dropdown .dropdown-content .twitter:hover {
   background: #00acee;
   border: none;
   color: #fff;
 }
-
-#main-content
-  #content
-  .article
-  .article-content
-  .article-share
-  .fa-fab
-  .pinterest:hover {
+.dropdown .dropdown-content .pinterest:hover {
   background: #c8232c;
   border: none;
   color: #fff;
