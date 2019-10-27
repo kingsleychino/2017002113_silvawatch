@@ -213,6 +213,11 @@ h3 {
   text-decoration: none;
 }
 
+.dropdown i:hover {
+  background: #b4b4b4;
+  border: #b4b4b4 solid 1px;
+}
+
 .dropdown .dropdown-content {
   visibility: hidden;
   opacity: 0;
