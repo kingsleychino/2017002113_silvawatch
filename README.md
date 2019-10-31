@@ -16,10 +16,10 @@ MORE...
 
 ## Built With
 
-HTML5
-CSS3
-JAVASCRIPT
-NODE JS
+- HTML5
+- CSS3
+- JAVASCRIPT
+- NODE JS
 
 ## Author
 
