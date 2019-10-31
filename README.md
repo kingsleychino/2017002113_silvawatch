@@ -8,11 +8,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Features
 
-LATEST
-MUSIC
-LIFESTYLE
-SNEAKERS
-MORE...
+-LATEST
+-MUSIC
+-LIFESTYLE
+-SNEAKERS
+-MORE...
 
 ## Built With
 
