@@ -26,4 +26,4 @@ These instructions will get you a copy of the project up and running on your loc
 **UGWU KINGSLEY CHISOM**
 
 ## Lve Link
-<a href="https://github.com/kingsleychino/2017002113_silvawatch">Live Link</a>
+<a href="https://kingsleychino.github.io/2017002113_silvawatch/">Live Link</a>
