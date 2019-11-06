@@ -278,3 +278,100 @@ h3 {
   display: block;
   max-width: 98.3%;
 }
+
+#page_num ul {
+  display: flex;
+  font-family: 'latoregular';
+  font-size: 0.75rem;
+  list-style: none;
+  margin-bottom: 1rem;
+}
+
+#page_num ul li a {
+  background: #fff;
+  border: #aaa solid 1px;
+  border-radius: 5px;
+  color: #aaa;
+  display: block;
+  margin: 0 0.25rem;
+  padding: 0.25rem 0.75rem;
+  text-decoration: none;
+}
+
+#page_num ul li a:hover {
+  background: #c8232c;
+  border: #c8232c solid 1px;
+  color: #fff;
+}
+
+/* Footer */
+#footer {
+  font-family: 'latoregular';
+}
+
+#footer .footer-link {
+  background: #333;
+  color: #fff;
+  padding: 3rem 0;
+}
+
+#footer .footer-link .follows {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  text-align: center;
+}
+
+#footer .footer-link .follows li {
+  align-items: center;
+  justify-items: center;
+  margin: 0 0.25rem;
+  text-align: center;
+  width: 43px;
+}
+
+#footer .footer-link .follows li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#footer .footer-link .follows i {
+  background: #525252;
+  border: #525252 solid 2px;
+  border-radius: 50%;
+  display: block;
+  height: 99%;
+  padding: 0.75rem;
+  width: 99%;
+}
+
+#footer .footer-link .follows i:hover {
+  background: #333;
+  border: #525252 solid 2px;
+}
+
+#footer .footer-link .subscribe {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin-top: 0.75rem;
+}
+
+#footer .footer-link .subscribe a {
+  color: #aaa;
+  font-size: 0.75rem;
+  line-height: 1;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+#footer .footer-link .subscribe a:hover {
+  color: #c4302b;
+}
+
+#footer .footer-copy {
+  background: #121212;
+  color: #aaa;
+  padding: 2rem 0;
+  text-align: center;
+}
