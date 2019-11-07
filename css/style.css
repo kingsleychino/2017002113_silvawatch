@@ -210,7 +210,7 @@ h6 {
 
 /* Navigation */
 #main-nav {
-  background: #fff;
+  background: #001438;
   position: sticky;
   top: 0;
   z-index: 2;
@@ -233,6 +233,7 @@ h6 {
 }
 
 #main-nav ul li a {
+  background: var(--light-color);
   padding: 0.75rem;
   font-weight: bold;
 }
@@ -252,7 +253,7 @@ h6 {
 }
 
 #main-nav .social i {
-  color: #777;
+  color: rgb(255, 255, 255);
   margin-right: 0.5rem;
 }
 
