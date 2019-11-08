@@ -244,8 +244,8 @@ h6 {
 }
 
 #main-nav ul li a:hover {
-  background: var(--light-color);
-  color: var(--dark-color);
+  background: #f97000;
+  color: #fff;
 }
 
 #main-nav .social {
@@ -255,6 +255,10 @@ h6 {
 #main-nav .social i {
   color: rgb(255, 255, 255);
   margin-right: 0.5rem;
+}
+
+#main-nav .social i:hover {
+  color: #f97000;
 }
 
 /* Showcase */
