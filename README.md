@@ -1,6 +1,6 @@
 # SilvaWatchpng
 ![](img/logo_light.png)
-*"silvaWatch stands as one of Nigeria popular Urban Pop Culture websites. A multi blog for all your quality content in Entertainment, Music, TV/Movies, Events, Reviews, Lifestyle, Fashion, Sports and latest tech news."*
+*"SilvaWatch stands as one of Nigeria popular Urban Pop Culture websites. A multi blog for all your quality content in Entertainment, Music, TV/Movies, Events, Reviews, Lifestyle, Fashion, Sports and latest tech news.It is a 24hours news blog website that keeps people update about entertainment and sporst"*
 
 ### Getting Started
 
