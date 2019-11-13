@@ -19,6 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 - JAVASCRIPT
 - NODE JS
 
+## Project Plan
 - Week 8 : Github update
 - Week 9 : Setting home pages and css
 - Week 10 : Completion of Front-End
