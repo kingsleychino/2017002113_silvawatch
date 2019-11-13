@@ -1,5 +1,4 @@
 # SilvaWatch
-
 *"silvaWatch stands as one of Nigeria popular Urban Pop Culture websites. A multi blog for all your quality content in Entertainment, Music, TV/Movies, Events, Reviews, Lifestyle, Fashion, Sports and latest tech news."*
 
 ### Getting Started
@@ -8,10 +7,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Features
 
-- [x] LATEST
-- [x] MUSIC
-- [x] LIFESTYLE
-- [x] SNEAKERS
+- [x] HOME
+- [x] ABOUT
+- [x] CONTACT
 - [x] MORE...
 
 ## Built With
@@ -21,8 +19,16 @@ These instructions will get you a copy of the project up and running on your loc
 - JAVASCRIPT
 - NODE JS
 
-## Author
+- Week 8 : Github update
+- Week 9 : Setting home pages and css
+- Week 10 : Completion of Front-End
+- Week 11 : Backend Optimization
+- Week 12 : Frontend Optimization
+- Week 13 : Backend Debugging and Stress testing
+- Week 14 : Upgrade Ops based on Teacher's Input
+- Week 15 : Final Release
 
+## Author
 **UGWU KINGSLEY CHISOM**
 
 ## Lve Link
