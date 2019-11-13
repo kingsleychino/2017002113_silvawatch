@@ -1,5 +1,5 @@
-# SilvaWatch
-https://github.com/kingsleychino/2017002113_silvawatch/blob/master/img/logo.png
+# SilvaWatchpng
+![](img/logo.png)
 *"silvaWatch stands as one of Nigeria popular Urban Pop Culture websites. A multi blog for all your quality content in Entertainment, Music, TV/Movies, Events, Reviews, Lifestyle, Fashion, Sports and latest tech news."*
 
 ### Getting Started
