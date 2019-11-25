@@ -1,0 +1,29 @@
+{
+  "name": "2017002113_silvawatch",
+  "version": "1.0.0",
+  "description": "![](img/logo_light.png)\r *\"SilvaWatch stands as one of Nigeria popular Urban Pop Culture websites. A multi blog for all your quality content in Entertainment, Music, TV/Movies, Events, Reviews, Lifestyle, Fashion, Sports and latest tech news.It is a 24hours news blog website that keeps people update about entertainment and sporst\"*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingsleychino/2017002113_silvawatch.git"
+  },
+  "author": "Kingsley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingsleychino/2017002113_silvawatch/issues"
+  },
+  "homepage": "https://github.com/kingsleychino/2017002113_silvawatch#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "mongoose": "^5.7.12",
+    "nodemon": "^2.0.1"
+  },
+  "dependencies": {
+    "ejs": "^3.0.1"
+  }
+}
